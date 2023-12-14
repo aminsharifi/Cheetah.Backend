@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cheetah.Backend", "Cheetah.Backend\Cheetah.Backend.csproj", "{DF77FC84-760D-4CA5-877B-B1FC89C64E87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF77FC84-760D-4CA5-877B-B1FC89C64E87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF77FC84-760D-4CA5-877B-B1FC89C64E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF77FC84-760D-4CA5-877B-B1FC89C64E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF77FC84-760D-4CA5-877B-B1FC89C64E87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {998C34BA-D677-47D0-BD60-449E79A2762E}
+	EndGlobalSection
+EndGlobal
